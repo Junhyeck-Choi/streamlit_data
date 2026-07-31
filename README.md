@@ -12,6 +12,7 @@
   7. 생성한 코드들을 업로드한다
 
 **프롬프트 생성 예시**
+
 (i) app.py, requirements.txt 생성하기
 >다음 파일을 바탕으로 streamlit에서 그래프를 시각화할 수 있는 python 코드(.py 형태)를 짜줘 github에 올려서 streamlit으로 앱을 실행할거야
 >
