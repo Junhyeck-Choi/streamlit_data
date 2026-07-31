@@ -14,7 +14,7 @@
 **프롬프트 생성 예시**
 
 (i) app.py, requirements.txt 생성하기
->다음 파일을 바탕으로 streamlit에서 그래프를 시각화할 수 있는 python 코드(.py 형태)를 짜줘 github에 올려서 streamlit으로 앱을 실행할거야
+>첨부한 데이터 파일(daily_emergency.csv)을 바탕으로 streamlit에서 그래프를 시각화할 수 있는 python 코드(.py 형태)를 짜줘 github에 올려서 streamlit으로 앱을 실행할거야
 >
 >배경설명 : 데이터는 2020년 1월 1일부터 2022년 12월 31일 까지 서울 지역의 증상 별 응급출동 횟수야. 각 날짜가 행으로 들어가있고, 열에는 증상 별 횟수가 들어가있어
 >
