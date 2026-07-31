@@ -9,7 +9,7 @@
   4. chatgpt 등 생성형 ai를 이용하여 app.py, requirements.txt, 01_bar.py 02_pie.py를 생성한다.
   5. app.py, requirements.txt는 repository에 바로 업로드 한다.
   6. 01_bar.py 02_pie.py는 pages 폴더를 생성하면서 업로드 한다.
-  7. streamlit에 가서 반영을 확인한다 (페이지 생성 시 좌측 하단 Manage app > ... > reboot app)
+  7. streamlit에 가서 반영을 확인한다 (페이지 생성 시 우측 하단 Manage app > ... > reboot app)
 
 **프롬프트 생성 예시**
 
