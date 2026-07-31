@@ -1,8 +1,17 @@
 # streamlit_data
-도시데이터분석학교 streamlit입니다
+도시 데이터 분석학교 5기 streamlit 프로젝트 예시입니다!
+링크 : http://urbandata.streamlit.app/
 
+**사전준비**
+  1. README.md 생성을 클릭하고 repository를 생성한다
+  2. data 폴더를 생성한다
+  3. data 폴더에 시각화하고자 하는 데이터 (daily_emergency.csv)를 업로드 한다
+  4. pages 폴더를 생성한다
+  5. chatgpt 등 생성형 ai를 이용하여 app.py, requirements.txt, 01_bar.py 02_pie.py를 생성한다.
+  6. 생성한 코드들을 업로드한다
 
-
+**프롬프트 생성 예시**
+(i) app.py, requirements.txt 생성하기
 >다음 파일을 바탕으로 streamlit에서 그래프를 시각화할 수 있는 python 코드(.py 형태)를 짜줘 github에 올려서 streamlit으로 앱을 실행할거야
 >
 >배경설명 : 데이터는 2020년 1월 1일부터 2022년 12월 31일 까지 서울 지역의 증상 별 응급출동 횟수야. 각 날짜가 행으로 들어가있고, 열에는 증상 별 횟수가 들어가있어
