@@ -1,5 +1,5 @@
 # streamlit_data
-도시 데이터 분석학교 5기 streamlit 프로젝트 예시입니다!
+도시 데이터 분석학교 5기 streamlit 프로젝트 예시입니다!\
 링크 : http://urbandata.streamlit.app/
 
 **사전준비**
