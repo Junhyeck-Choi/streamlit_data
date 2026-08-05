@@ -1,4 +1,4 @@
-streamlit>=1.45,<2.0
-plotly>=6.0,<7.0
-pandas>=2.2,<3.0
-starlette
+streamlit>=1.32,<2
+plotly>=5.18,<7
+pandas>=2.0,<3
+starlette<1
